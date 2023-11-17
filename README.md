@@ -21,7 +21,7 @@ Accessibility: Access the system from anywhere with an internet connection.
 
 ## Authors
 
-- [@aarafiit](https://www.github.com/aarafiit)
+Mithun Chandra Sarkar
 
 
 ## Deployment
